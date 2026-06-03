@@ -1,0 +1,2 @@
+# Treats all .rb files as R code
+*.ipynb linguist-language=R
